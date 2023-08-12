@@ -14,7 +14,7 @@ import requests
 
 # ChatGPT API的URL和密钥
 bot_api_url = "https://openaiapi.elecho.top/v1/chat/completions" # openai的api链接
-bot_api_key = "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" # 填写你的api-key
+bot_api_key = "api_key" # 填写你的api-key
 
 # ChatGPT参数
 chatgpt_params = {
